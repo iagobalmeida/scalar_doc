@@ -227,7 +227,7 @@ spotify_docs.set_theme(
 
 ## 📚 References
 
-* 🔗 [scalar.dev](https://scalar.dev/) — Official Scalar docs
+* 🔗 [scalar.dev](https://scalar.com/) — Official Scalar docs
 * 🔗 [github.com/scalar/scalar](https://github.com/scalar/scalar) — Underlying engine
 * 🔗 [OpenAPI Initiative](https://www.openapis.org/) — Specification standard
 
